@@ -46,6 +46,7 @@ def delete_data():
     for i in range(9):
         for j in range(9):
             fields[i][j].delete(0, END)
+            fields[i][j].config(bg="white")
 
 def exit_app():
     exit()
