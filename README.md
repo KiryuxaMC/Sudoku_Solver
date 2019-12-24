@@ -1,4 +1,4 @@
-#Sudoku Solver
+<h1>Sudoku Solver</h1>
 #F.A.Q.
 
 Q: Что это?
