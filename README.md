@@ -22,7 +22,7 @@ A: Научиться работать с графическим интерфе�
   1. Данные можно вписать в пустые клетки полей самому;
   2. Данные можно загрузить из файла - кнопка **Read file**
 
-<p align="center"><img src="https://github.com/KiryuxaMC/Images/blob/master/Sudoku_Im/read_file.png"></p>
+<p align="center"><img src="https://github.com/KiryuxaMC/Sudoku_Solver/blob/master/Sudoku_Im/read_file.png"></p>
 
 <h2>Решение Судоку</h2>
 
