@@ -28,4 +28,4 @@ A: Научиться работать с графическим интерфе�
 
   После нажатия на кнопку **Solve**, алгоритм решит судоку и пустые клетки или клетки с нулями будут заполнены цифрами и покрашены в голубой цвет.
 
-<p align="center"><img src="https://github.com/KiryuxaMC/Images/blob/master/Sudoku_Im/solve.png"></p>
+<p align="center"><img src="https://github.com/KiryuxaMC/Sudoku_Solver/blob/master/Sudoku_Im/solve.png"></p>
